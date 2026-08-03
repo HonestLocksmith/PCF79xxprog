@@ -591,4 +591,8 @@ Before packaging, the following non-hardware checks were completed:
   - MSDA is released during target transmission and driven high at transaction completion,
   - EEPROM bit reversal converts `0x96` to `0x69`.
 
-These checks do not replace compilation with the installed Espressif board package or electrical testing on a PCF target.
+These checks do not replace compilation with the installed Espressif board package or electrical testing on a PCF target. 
+
+
+bin files
+https://github.com/HonestLocksmith/KeyFobBins
